@@ -1,21 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
-  <!-- Mirrored from html.themeholy.com/webteck/demo/home-software-company-op.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Jul 2024 05:47:06 GMT -->
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>
-      Webteck - Technology & IT Solutions HTML Template - Software Company
-    </title>
+    <title>CharmyDev. - Technology & IT Solutions</title>
     <meta name="author" content="Themeholy" />
-    <meta
-      name="description"
-      content="Webteck - Technology & IT Solutions HTML Template"
-    />
-    <meta
-      name="keywords"
-      content="Webteck - Technology & IT Solutions HTML Template"
-    />
+    <meta name="description" content="CharmyDev. - Technology & IT Solutions" />
+    <meta name="keywords" content="CharmyDev. - Technology & IT Solutions" />
     <meta name="robots" content="INDEX,FOLLOW" />
     <meta
       name="viewport"
@@ -148,13 +139,16 @@
       <div id="loader" class="th-preloader">
         <div class="animation-preloader">
           <div class="txt-loading">
-            <span preloader-text="W" class="characters">W</span>
-            <span preloader-text="E" class="characters">E</span>
-            <span preloader-text="B" class="characters">B</span>
-            <span preloader-text="T" class="characters">T</span>
-            <span preloader-text="E" class="characters">E</span>
             <span preloader-text="C" class="characters">C</span>
-            <span preloader-text="K" class="characters">K</span>
+            <span preloader-text="H" class="characters">H</span>
+            <span preloader-text="A" class="characters">A</span>
+            <span preloader-text="R" class="characters">R</span>
+            <span preloader-text="M" class="characters">M</span>
+            <span preloader-text="Y" class="characters">Y</span>
+            <span preloader-text="D" class="characters">D</span>
+            <span preloader-text="E" class="characters">E</span>
+            <span preloader-text="V" class="characters">V</span>
+            <span preloader-text="." class="characters">.</span>
           </div>
         </div>
       </div>
@@ -2514,5 +2508,4 @@
     <script src="assets/js/particles-config.js"></script>
     <script src="assets/js/main.js"></script>
   </body>
-  <!-- Mirrored from html.themeholy.com/webteck/demo/home-software-company-op.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 26 Jul 2024 05:47:06 GMT -->
 </html>
